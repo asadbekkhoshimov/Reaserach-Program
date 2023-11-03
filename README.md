@@ -1,7 +1,8 @@
 # Lane Detection for ADAS & Self-Driving Cars
 
 ## Video
-[Download Video](fc62da16-f49b-4e09-8df4-284bdd6b816c.mp4)
+
+https://github.com/asadbekkhoshimov/Reaserach-Program/assets/84382619/dfe8e7a7-f7e7-490e-822c-6b2d6b4cd02f
 
 
 ## Overview
