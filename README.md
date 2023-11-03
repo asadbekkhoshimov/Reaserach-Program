@@ -44,4 +44,10 @@ To install all packages from the `requirements.txt` file via conda:
 
 ## Usage
 
+### Project1
+
     python main.py
+
+### Project2
+
+    python lane_detection.py
