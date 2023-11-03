@@ -32,3 +32,8 @@ To install all packages from the `requirements.txt` file via conda:
 
 ```shell
 conda install --file requirements.txt
+
+## Usage
+
+```shell
+python main.py
